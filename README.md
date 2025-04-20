@@ -98,7 +98,7 @@ The frontend will send requests to the backend to generate visualizations based 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-<img width="168" alt="{ED9680B6-D88E-4D09-9B2A-95868F3B4D4D}" src="https://github.com/user-attachments/assets/bc0b2bee-1e4c-4251-aadf-89e4efe07ba8" />
+<img width="165" alt="{FB8F9F4A-A890-4099-8DD6-16F70B022C5E}" src="https://github.com/user-attachments/assets/ee56a66a-5437-4d51-8b34-52bc0c650a94" />
 <img width="169" alt="{6869A198-609B-4E23-BA0F-21CE19429A93}" src="https://github.com/user-attachments/assets/24daa12e-f515-4f67-8f2b-6e18cd38616c" />
 <img width="167" alt="{D69B3A4F-8CE0-4B8A-B934-4E32DE57C7E5}" src="https://github.com/user-attachments/assets/e381f09b-32bb-4d3b-ba99-c70dcbbe4cf1" />
 
