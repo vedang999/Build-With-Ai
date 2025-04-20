@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LG Web Frontend</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="tabs">
+    <button data-tab="connection" class="active">LG Connection</button>
+    <button data-tab="tools">Tools</button>
+    <button data-tab="visualisation">Visualisation</button>
+  </nav>
+
+  <section id="connection" class="tab-content active">
+    <lg-connection-form></lg-connection-form> <!-- Use the new custom element -->
+  </section>
+
+  <section id="tools" class="tab-content">
+      <lg-tools></lg-tools>
+
+  </section>
+
+  <section id="visualisation" class="tab-content">
+    <visualisation-form></visualisation-form> <!-- Use the new custom element -->
+  </section>
+
+  <script type="module" src="main.mjs"></script>
+</body>
+</html>

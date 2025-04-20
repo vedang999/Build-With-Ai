@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Yashraj Balloon</name>
+    <Style id="balloonStyle">
+      <IconStyle>
+        <Icon>
+          <href>https://yashrajbharti.github.io/lg-web/assets/Fire.png</href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>$[description]</text>
+        <bgColor>ff1e1e1e</bgColor>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Nagpur Balloon</name>
+      <description><![CDATA[
+        <h2><font color='#00CC99'>Nagpur, India</font></h2>
+        <h3><font color='#00CC99'>City of Orange</font></h3>
+        <p><font color="#3399CC">Nagpur is the winter capital of Maharashtra and a major trade center for oranges. It is a hub for education, commerce, and culture. The city is known for its beautiful gardens, temples, and vibrant festivals.</font></p>
+        <a href="https://en.wikipedia.org/wiki/Nagpur">Learn More About Nagpur</a>
+      ]]></description>
+      <styleUrl>#balloonStyle</styleUrl>
+      <Point>
+        <coordinates>79.0882,21.1458,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
